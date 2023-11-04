@@ -1,0 +1,14 @@
+subject:
+- "001"
+- "002"
+- "004"
+- "003"
+
+runs:
+- 1
+- 2
+
+stat:
+- mean
+- median
+- std
